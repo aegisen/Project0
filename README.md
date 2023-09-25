@@ -1,2 +1,4 @@
 # Project0
-For DATA340 NLP
+For DATA340 NLP.
+First, I used a Wordcloud for a general, quick glance at the data. It gave a brief view of what were the most common words (and, thus, gave an idea of the language used in titles or descriptions).
+Then, I used a heatmap based on TF-IDF values to show the similarity between descriptions and between titles. I believed that a heatmap is a helpful visualization to quickly see the general similarity across documents; here, because of the dots of color, it's relatively clear which documents have some similarity. There were some strikingly similar titles, but the level of similarity of descriptions did not reach the level for titles. In a way, it makes sense, since titles are short and meant to capture attention. It would be natural for similar topics to have similar, attention-grabbing titles.
