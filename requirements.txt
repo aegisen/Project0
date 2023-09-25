@@ -1,0 +1,10 @@
+Libraries used:
+Spacy
+Wordcloud
+Pandas
+MatPlotLib
+TFIDVectorizer
+Linear_Kernel
+Seaborn
+Numpy
+Image (for wordcloud)
